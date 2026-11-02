@@ -34,13 +34,13 @@ Projeto desenvolvido em Python com o objetivo de praticar conceitos fundamentais
 1. Clone este repositório:
 
    ```bash
-   git clone URL_DO_REPOSITORIO
+   git clone  https://github.com/emymoreira08/calculadora-python.git
    ```
 
 2. Entre na pasta do projeto:
 
    ```bash
-   cd calculadora-python
+   cd calculadora_simples
    ```
 
 3. Execute o programa:
