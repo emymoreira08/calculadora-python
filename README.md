@@ -46,7 +46,7 @@ Projeto desenvolvido em Python com o objetivo de praticar conceitos fundamentais
 3. Execute o programa:
 
    ```bash
-   python calculadora.py
+   calculadora_simples.py
    ```
 
 ## Objetivo
